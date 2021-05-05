@@ -16,7 +16,7 @@
 
 (d) Give your voice command after that, wait for what it hears, which will also be the final responce of the service
 
-**Package Dependencies/Required Installation Required**
+**Package Dependencies and/or Installation Required**
 
 1. pip install ffmpy
 
@@ -30,4 +30,4 @@
 
 **Running**
 
-Usual: run the client and server files written in python.
+Usual client and server files in python.
