@@ -16,8 +16,18 @@
 
 (d) Give your voice command after that, wait for what it hears, which will also be the final responce of the service
 
-**Package Dependencies**
+**Package Dependencies/Required Installation Required**
 
-**Installation Required**
+1. pip install ffmpy
+
+2. sudo apt-get install python-pyaudio
+
+3. pip install requests
+
+4. pip install monotonic
+
+5. sudo apt-get install ffmpeg
 
 **Running**
+
+Usual: run the client and server files written in python.
